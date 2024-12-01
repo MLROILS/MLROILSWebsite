@@ -11,6 +11,9 @@ import './styles.scss';
 
 import logo from '../../assets/images/logo/mlr-logo-white01-removebg.png';
 import logo02 from '../../assets/images/logo/mlr-logo-dark04.png';
+import logo03 from '../../assets/images/logo/hi.png';
+import logo04 from '../../assets/images/logo/bye.png';
+
 
 
 import DarkMode from './DarkMode';
@@ -54,8 +57,8 @@ const Header = () => {
                                         <Link to="/" rel="home" className="main-logo">
                                             {/* <img id="logo_header" className='logo-dark' src={logodark} alt="Binasea" />
                                             <img id="logo_header" className='logo-light' src={logo} alt="Binasea" /> */}
-                                            <img id="logo_header" className='logo-dark' src={logo02} alt="mlr oils" />
-                                            <img id="logo_header" className='logo-light' src={logo} alt="mlr oils" />
+                                            <img id="logo_header" className='logo-dark' src={logo03} alt="mlr oils" />
+                                            <img id="logo_header" className='logo-light' src={logo04} alt="mlr oils" />
                                         </Link>
                                     </div>
                                 </div>
