@@ -141,7 +141,7 @@ const dataLiveaution = [
     {
         id: 9,
         img: imga2,
-        title: 'Nuvvuka Telaga Pindi',
+        title: 'Nuvvula Telaga Pindi',
         productDescription: 'Traditional Indian sesame seed cake powder, perfect for nutritious recipes. It is a rich source of protein and healthy fats, promoting energy and aiding in weight management while providing a delicious taste.',
         category: 'Health Foods',
         rating: 4.8,
